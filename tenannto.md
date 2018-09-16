@@ -5,5 +5,5 @@
 
 # リンク <br>
 [トップページ](https://u50116.github.io/ShoppingCoin/index)<br>
-[コインの仕組み](https://u50116.github.io/ShoppingCoin/index/coinsystem)<br>
-[地図](https://u50116.github.io/ShoppingCoin/index/map)<br>
+[コインの仕組み](https://u50116.github.io/ShoppingCoin/coinsystem)<br>
+[地図](https://u50116.github.io/ShoppingCoin/map)<br>
