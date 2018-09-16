@@ -1,6 +1,6 @@
 # コインの説明
 
-![sample.png](.sample.png)
+![sample.png](.sample)
 
 # リンク
 [コインの仕組み](./coinsistem)
