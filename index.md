@@ -3,7 +3,7 @@
 現在、シャッター商店街が増加しています。<br>
 ショッピングコインは、その商店街を活性化するために出店者を支援する地域通貨です。
 
-![explanation.png](./explanation.png "ショッピングコインのイメージ")
+![explanation.png](./explanation.png)
 
 ## リンク
 [コインの仕組み](./coinsystem)<br>
