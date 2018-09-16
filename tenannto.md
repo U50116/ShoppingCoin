@@ -4,6 +4,6 @@
 半永久的に支援を受け続けることができる！！！
 
 #リンク <br>
-（コインの仕組み）./coinsystem <br>
-（テナントとの違い）./tenannto <br>
-（地図） ./map <br>
+[コインの仕組み](./coinsystem)<br>
+[テナントとの違い](./tenannto)<br>
+[地図](./map)<br>
