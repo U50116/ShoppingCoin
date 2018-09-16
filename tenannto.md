@@ -1,4 +1,4 @@
-<img width="500px" alt="テナント" src="./tenannto.png">
+<img width="1000px" alt="テナント" src="./tenannto.png">
 
 また、テナントに入ったらそれだけだが
 商店街に出店しこのショッピングコインを活用すれば半永久的に支援を受け続けることができる！！！
