@@ -1,6 +1,5 @@
 # 空き店舗情報 <br>
 <img width="500px" alt="商店街地図" src= "./map.png"> <br>
-番号をクリックすると詳細を表示します。<br>
  1,○○<br>
  2,△△<br>
  3,□□<br>
@@ -16,6 +15,6 @@
  13,◆◆<br>
  14,＃＃<br>
 
-[トップページ](https://u50116.github.io/ShoppingCoin/index.md)
-[コインの仕組み](https://u50116.github.io/ShoppingCoin/CoinSystem.md)
-[テナントとの違い](https://u0116.github.io/ShoppingCoin/tenannto.md)
+[トップページ](https://u50116.github.io/ShoppingCoin/index)
+[コインの仕組み](https://u50116.github.io/ShoppingCoin/CoinSystem)
+[テナントとの違い](https://u0116.github.io/ShoppingCoin/tenannto)
