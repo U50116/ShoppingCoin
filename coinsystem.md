@@ -7,7 +7,7 @@
 ### 付与されたされたポイントの使い方
 実際に出店する際にポイントを利用することによって店舗などの開始を行う<br>店舗のイノベーションの援助を行う<br>広告を打ち出す際の資金の援助などを行う
 ## リンク
-<br>[トップページ](./index)
-<br>[テナントの違い](./tenannt)
-<br>[地図](./map)
+<br>[トップページ](https://u50116.github.io/ShoppingCoin/index/)
+<br>[テナントの違い](https://u50116.github.io/ShoppingCoin/tenannt)
+<br>[地図](hhtps://u50116.github.io/ShoppingCoin/map)
 
