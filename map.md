@@ -15,6 +15,7 @@
  13,◆◆<br>
  14,＃＃<br>
 
+## リンク
 [トップページ](https://u50116.github.io/ShoppingCoin/index) <br>
 [コインの仕組み](https://u50116.github.io/ShoppingCoin/CoinSystem) <br>
 [テナントとの違い](https://u0116.github.io/ShoppingCoin/tenannto) <br>
