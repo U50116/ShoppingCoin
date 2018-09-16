@@ -1,3 +1,3 @@
 #ショッピングコインの仕組み
- ##仕組みについて
- <img width="200px" alt="図" src="./system.png">
+<br> ##仕組みについて
+<br><img width="200px" alt="図" src="./system.png">
